@@ -29,7 +29,7 @@ The fact that Urban neighborhood has 2405(80.9%) drivers while Suburban only has
 This can also be interpreted by the scatterplot chart attached below.
 ![scatterplot](https://github.com/tiffanylin706/PyBer_Analysis/blob/687f57bdbba1ed5736c74e7adadb93ba1bb36a7f/analysis/Fig1.png)
 
-##Summary and Suggestions:
+## Summary and Suggestions:
 To conclude, accoriding to the data, majority of the ride share service occurs in Urban neighborhood. In order to develop more bussiness and to lower the price for Suburban and Rural neighborhoods, there are some recommendations:
 
 * Hire more drivers for Suburban and Rural neighborhoods in order to reduce the scarcity, this can help lower the fares and people will be more willing to use the service.
